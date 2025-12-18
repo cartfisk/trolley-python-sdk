@@ -23,24 +23,24 @@ ___
 
 ###  find
 
-► **find**(kind: *"paypal"⎮"paymentrails"*): `Balance`
+► **find**(kind: *"paypal"⎮"trolley"*): `Balance`
 
 
 
-*Defined in [balances_gateway.py:49](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/balances_gateway.py#L49)*
+*Defined in [balances_gateway.py:49](https://github.com/trolley/python-sdk/tree/master/trolley/balances_gateway.py#L49)*
 
 
 
 Fetch the account balance for the given account type
 
-    balances = client.balances.find("paymentrails")
+    balances = client.balances.find("trolley")
 
 
 **Parameters:**
 
 | Param | Type | Description |
 | ------ | ------ | ------ |
-| kind | "paypal"⎮"paymentrails"   |  The account type to get the balances for |
+| kind | "paypal"⎮"trolley"   |  The account type to get the balances for |
 
 
 
@@ -53,5 +53,3 @@ Fetch the account balance for the given account type
 
 
 ___
-
-

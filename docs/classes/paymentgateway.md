@@ -26,7 +26,7 @@
 
 
 
-*Defined in [PaymentGateway.py:55](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/PaymentRails_Gateway.py#L55)*
+*Defined in [PaymentGateway.py:55](https://github.com/trolley/python-sdk/tree/master/trolley/trolley_Gateway.py#L55)*
 
 
 
@@ -63,7 +63,7 @@ ___
 
 
 
-*Defined in [PaymentGateway.py:34](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/PaymentRails_Gateway.py#L34)*
+*Defined in [PaymentGateway.py:34](https://github.com/trolley/python-sdk/tree/master/trolley/trolley_Gateway.py#L34)*
 
 
 
@@ -98,7 +98,7 @@ ___
 
 
 
-*Defined in [PaymentGateway.py:90](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/PaymentRails_Gateway.py#L90)*
+*Defined in [PaymentGateway.py:90](https://github.com/trolley/python-sdk/tree/master/trolley/trolley_Gateway.py#L90)*
 
 
 
@@ -134,7 +134,7 @@ ___
 
 
 
-*Defined in [PaymentGateway.py:105](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/PaymentRails_Gateway.py#L105)*
+*Defined in [PaymentGateway.py:105](https://github.com/trolley/python-sdk/tree/master/trolley/trolley_Gateway.py#L105)*
 
 
 
@@ -170,7 +170,7 @@ ___
 
 
 
-*Defined in [PaymentGateway.py:74](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/PaymentRails_Gateway.py#L74)*
+*Defined in [PaymentGateway.py:74](https://github.com/trolley/python-sdk/tree/master/trolley/trolley_Gateway.py#L74)*
 
 
 
@@ -198,5 +198,3 @@ Update a given payment
 
 
 ___
-
-

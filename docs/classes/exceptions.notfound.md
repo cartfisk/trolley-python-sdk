@@ -35,7 +35,7 @@
 
 *NotFoundException*
 
-*Defined in paymentrails.exceptions.notFoundException.MalformedUrlNotFoundExceptionException*
+*Defined in trolley.exceptions.notFoundException.MalformedUrlNotFoundExceptionException*
 
 
 

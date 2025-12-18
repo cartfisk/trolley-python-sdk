@@ -34,11 +34,11 @@ Gateway class for batches
 
 
 
-*Defined in [batch_gateway.py:27](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch_gateway.py#L27)*
+*Defined in [batch_gateway.py:27](https://github.com/trolley/python-sdk/tree/master/trolley/batch_gateway.py#L27)*
 
 
 
-Creates a batch with optional payments. This is the interface that is provide by the [Create Batch](http://docs.paymentrails.com/api/#create-a-batch) API
+Creates a batch with optional payments. This is the interface that is provide by the [Create Batch](http://docs.trolley.com/api/#create-a-batch) API
 
         payload = {"type": "individual", "firstName": "Tom",
                    "lastName": "Jones", "email": "test.create@example.com"}
@@ -81,7 +81,7 @@ ___
 
 
 
-*Defined in [batch_gateway.py:17](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch_gateway.py#L17)*
+*Defined in [batch_gateway.py:17](https://github.com/trolley/python-sdk/tree/master/trolley/batch_gateway.py#L17)*
 
 
 
@@ -116,7 +116,7 @@ ___
 
 
 
-*Defined in [batch_gateway.py:80](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch_gateway.py#L80)*
+*Defined in [batch_gateway.py:80](https://github.com/trolley/python-sdk/tree/master/trolley/batch_gateway.py#L80)*
 
 
 
@@ -145,7 +145,7 @@ ___
 ► **delete**(batchId: *`string`*): `Boolean`
 
 
-*Defined in [batch_gateway.py:47](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch_gateway.py#L47)*
+*Defined in [batch_gateway.py:47](https://github.com/trolley/python-sdk/tree/master/trolley/batch_gateway.py#L47)*
 
 
 
@@ -180,7 +180,7 @@ ___
 
 
 
-*Defined in [batch_gateway.py:54](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch_gateway.py#L54)*
+*Defined in [batch_gateway.py:54](https://github.com/trolley/python-sdk/tree/master/trolley/batch_gateway.py#L54)*
 
 
 
@@ -215,7 +215,7 @@ ___
 
 
 
-*Defined in [batch_gateway.py:90](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch_gateway.py#L90)*
+*Defined in [batch_gateway.py:90](https://github.com/trolley/python-sdk/tree/master/trolley/batch_gateway.py#L90)*
 
 
 
@@ -248,7 +248,7 @@ ___
 
 
 
-*Defined in [batch_gateway.py:68](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch_gateway.py#L68)*
+*Defined in [batch_gateway.py:68](https://github.com/trolley/python-sdk/tree/master/trolley/batch_gateway.py#L68)*
 
 
 
@@ -281,7 +281,7 @@ ___
 
 
 
-*Defined in [batch_gateway.py:37](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch_gateway.py#L37)*
+*Defined in [batch_gateway.py:37](https://github.com/trolley/python-sdk/tree/master/trolley/batch_gateway.py#L37)*
 
 
 
@@ -310,5 +310,3 @@ Update the batch data, note you can only update the information of a batch not t
 
 
 ___
-
-

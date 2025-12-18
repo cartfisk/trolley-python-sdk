@@ -35,11 +35,10 @@
 
 *DownForMaintenanceException*
 
-*Defined in paymentrails.exceptions.downForMaintenanceException.DownForMaintenanceException*
+*Defined in trolley.exceptions.downForMaintenanceException.DownForMaintenanceException*
 
 
 
 
 
 ___
-

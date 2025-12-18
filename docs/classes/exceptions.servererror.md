@@ -37,7 +37,7 @@ ___
 
 *ServerErrorException*
 
-*Defined in paymentrails.exceptions.serverErrorException.ServerErrorException*
+*Defined in trolley.exceptions.serverErrorException.ServerErrorException*
 
 
 

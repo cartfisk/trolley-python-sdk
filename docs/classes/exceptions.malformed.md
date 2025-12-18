@@ -35,7 +35,7 @@
 
 *MalformedUrlException*
 
-*Defined in paymentrails.exceptions.malformedUrlException.MalformedUrlException*
+*Defined in trolley.exceptions.malformedUrlException.MalformedUrlException*
 
 
 

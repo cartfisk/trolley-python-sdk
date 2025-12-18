@@ -35,7 +35,7 @@
 
 *UnexpectedException*
 
-*Defined in paymentrails.exceptions.unexpectedException.UnexpectedException*
+*Defined in trolley.exceptions.unexpectedException.UnexpectedException*
 
 
 

@@ -15,7 +15,7 @@
 
 **●  memo**:  *`undefined`⎮`string`* 
 
-*Defined in [batch.py:22](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch.py#L22)*
+*Defined in [batch.py:22](https://github.com/trolley/python-sdk/tree/master/trolley/batch.py#L22)*
 
 
 
@@ -30,7 +30,7 @@ ___
 
 **●  recipient**:  *`object`* 
 
-*Defined in [batch.py:23](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch.py#L23)*
+*Defined in [batch.py:23](https://github.com/trolley/python-sdk/tree/master/trolley/batch.py#L23)*
 
 
 #### Type declaration
@@ -50,7 +50,7 @@ ___
 
 **●  sourceAmount**:  *`undefined`⎮`string`* 
 
-*Defined in [batch.py:19](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch.py#L19)*
+*Defined in [batch.py:19](https://github.com/trolley/python-sdk/tree/master/trolley/batch.py#L19)*
 
 
 
@@ -63,7 +63,7 @@ ___
 
 **●  targetAmount**:  *`undefined`⎮`string`* 
 
-*Defined in [batch.py:20](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch.py#L20)*
+*Defined in [batch.py:20](https://github.com/trolley/python-sdk/tree/master/trolley/batch.py#L20)*
 
 
 
@@ -76,7 +76,7 @@ ___
 
 **●  targetCurrency**:  *`undefined`⎮`string`* 
 
-*Defined in [batch.py:21](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch.py#L21)*
+*Defined in [batch.py:21](https://github.com/trolley/python-sdk/tree/master/trolley/batch.py#L21)*
 
 
 ___

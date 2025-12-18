@@ -40,7 +40,7 @@ ___
 
 **●  batch**:  *[batch_gateway](batchgateway.md)* 
 
-*Defined in [gateway.py:13](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/gateway.py#L13)*
+*Defined in [gateway.py:13](https://github.com/trolley/python-sdk/tree/master/trolley/gateway.py#L13)*
 
 
 
@@ -54,7 +54,7 @@ ___
 
 **●  client**:  *`Client`* 
 
-*Defined in [gateway.py:11](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/gateway.py#L11)*
+*Defined in [gateway.py:11](https://github.com/trolley/python-sdk/tree/master/trolley/gateway.py#L11)*
 
 
 
@@ -68,7 +68,7 @@ ___
 
 **●  config**:  *[Configuration](configuration.md)* 
 
-*Defined in [gateway.py:10](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/gateway.py#L10)*
+*Defined in [gateway.py:10](https://github.com/trolley/python-sdk/tree/master/trolley/gateway.py#L10)*
 
 
 
@@ -82,7 +82,7 @@ ___
 
 **●  payment**:  *[payment_gateway](paymentgateway.md)* 
 
-*Defined in [Gateway.py:16](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/gateway.py#L16)*
+*Defined in [Gateway.py:16](https://github.com/trolley/python-sdk/tree/master/trolley/gateway.py#L16)*
 
 
 
@@ -96,7 +96,7 @@ ___
 
 **●  recipient**:  *[recipient_gateway](recipientgateway.md)* 
 
-*Defined in [gateway.py:12](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/gateway.py#L12)*
+*Defined in [gateway.py:12](https://github.com/trolley/python-sdk/tree/master/trolley/gateway.py#L12)*
 
 
 
@@ -108,14 +108,12 @@ ___
 
 ###  recipientAccount
 
-**●  PaymentRails_RecipientAccount**:  *[recipient_account_gateway](recipientaccountgateway.md)* 
+**●  trolley_RecipientAccount**:  *[recipient_account_gateway](recipientaccountgateway.md)* 
 
-*Defined in [gateway.py:14](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/gateway.py#L14)*
+*Defined in [gateway.py:14](https://github.com/trolley/python-sdk/tree/master/trolley/gateway.py#L14)*
 
 
 
 
 
 ___
-
-

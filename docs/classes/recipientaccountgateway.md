@@ -28,7 +28,7 @@
 
 
 
-*Defined in [recipient_account_gateway.py:33](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/PaymentRails_recipient_account_gateway.py#L33)*
+*Defined in [recipient_account_gateway.py:33](https://github.com/trolley/python-sdk/tree/master/trolley/trolley_recipient_account_gateway.py#L33)*
 
 
 
@@ -66,7 +66,7 @@ ___
 
 
 
-*Defined in [recipient_account_gateway.py:79](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/PaymentRails_recipient_account_gateway.py#L79)*
+*Defined in [recipient_account_gateway.py:79](https://github.com/trolley/python-sdk/tree/master/trolley/trolley_recipient_account_gateway.py#L79)*
 
 
 
@@ -106,7 +106,7 @@ ___
 
 
 
-*Defined in [recipient_account_gateway.py:52](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/PaymentRails_recipient_account_gateway.py#L52)*
+*Defined in [recipient_account_gateway.py:52](https://github.com/trolley/python-sdk/tree/master/trolley/trolley_recipient_account_gateway.py#L52)*
 
 
 
@@ -144,7 +144,7 @@ ___
 ► **remove**(recipientId: *`string`*, recipient_account: *`string`*): `boolean`
 
 
-*Defined in [recipient_account_gateway.py:121](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/PaymentRails_recipient_account_gateway.py#L121)*
+*Defined in [recipient_account_gateway.py:121](https://github.com/trolley/python-sdk/tree/master/trolley/trolley_recipient_account_gateway.py#L121)*
 
 
 
@@ -180,7 +180,7 @@ ___
 
 
 
-*Defined in [recipient_account_gateway.py:102](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/PaymentRails_recipient_account_gateway.py#L102)*
+*Defined in [recipient_account_gateway.py:102](https://github.com/trolley/python-sdk/tree/master/trolley/trolley_recipient_account_gateway.py#L102)*
 
 
 
@@ -209,5 +209,3 @@ Update a recipient account. Note: Updating an account will create a new account 
 
 
 ___
-
-

@@ -15,7 +15,7 @@
 
 **●  accountHolderName**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:23](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L23)*
+*Defined in [recipient_account.py:23](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L23)*
 
 
 
@@ -29,7 +29,7 @@ ___
 
 **●  accountNum**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:22](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L22)*
+*Defined in [recipient_account.py:22](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L22)*
 
 
 
@@ -43,7 +43,7 @@ ___
 
 **●  bankAddress**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:28](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L28)*
+*Defined in [recipient_account.py:28](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L28)*
 
 
 
@@ -57,7 +57,7 @@ ___
 
 **●  bankCity**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:29](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L29)*
+*Defined in [recipient_account.py:29](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L29)*
 
 
 
@@ -71,7 +71,7 @@ ___
 
 **●  bankId**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:26](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L26)*
+*Defined in [recipient_account.py:26](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L26)*
 
 
 
@@ -85,7 +85,7 @@ ___
 
 **●  bankName**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:27](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L27)*
+*Defined in [recipient_account.py:27](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L27)*
 
 
 
@@ -99,7 +99,7 @@ ___
 
 **●  bankPostalCode**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:31](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L31)*
+*Defined in [recipient_account.py:31](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L31)*
 
 
 
@@ -113,7 +113,7 @@ ___
 
 **●  bankRegionCode**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:30](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L30)*
+*Defined in [recipient_account.py:30](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L30)*
 
 
 
@@ -127,7 +127,7 @@ ___
 
 **●  branchId**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:25](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L25)*
+*Defined in [recipient_account.py:25](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L25)*
 
 
 
@@ -141,7 +141,7 @@ ___
 
 **●  country**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:19](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L19)*
+*Defined in [recipient_account.py:19](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L19)*
 
 
 
@@ -155,7 +155,7 @@ ___
 
 **●  currency**:  *`string`*  = ""
 
-*Defined in [recipient_account.py:11](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L11)*
+*Defined in [recipient_account.py:11](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L11)*
 
 
 
@@ -169,7 +169,7 @@ ___
 
 **●  emailAddress**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:16](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L16)*
+*Defined in [recipient_account.py:16](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L16)*
 
 
 
@@ -183,7 +183,7 @@ ___
 
 **●  iban**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:21](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L21)*
+*Defined in [recipient_account.py:21](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L21)*
 
 
 
@@ -197,7 +197,7 @@ ___
 
 **●  id**:  *`string`*  = ""
 
-*Defined in [recipient_account.py:9](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L9)*
+*Defined in [recipient_account.py:9](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L9)*
 
 
 
@@ -211,7 +211,7 @@ ___
 
 **●  primary**:  *`boolean`*  = false
 
-*Defined in [recipient_account.py:10](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L10)*
+*Defined in [recipient_account.py:10](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L10)*
 
 
 
@@ -225,7 +225,7 @@ ___
 
 **●  recipientFees**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:13](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L13)*
+*Defined in [recipient_account.py:13](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L13)*
 
 
 
@@ -239,7 +239,7 @@ ___
 
 **●  routeType**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:12](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L12)*
+*Defined in [recipient_account.py:12](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L12)*
 
 
 
@@ -253,7 +253,7 @@ ___
 
 **●  swiftBic**:  *`string`⎮`null`* 
 
-*Defined in [recipient_account.py:24](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L24)*
+*Defined in [recipient_account.py:24](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L24)*
 
 
 
@@ -267,12 +267,10 @@ ___
 
 **●  type**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient_account.py:20](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_account.py#L20)*
+*Defined in [recipient_account.py:20](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_account.py#L20)*
 
 
 
 
 
 ___
-
-

@@ -37,7 +37,7 @@
 
 *AuthorizationException*
 
-*Defined in paymentrails.exceptions.authorizationException.AuthorizationException*
+*Defined in trolley.exceptions.authorizationException.AuthorizationException*
 
 
 

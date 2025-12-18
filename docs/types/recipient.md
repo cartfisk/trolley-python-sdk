@@ -12,7 +12,7 @@
 
 **●  account**:  *`any`* 
 
-*Defined in [recipient.py:30](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L29)*
+*Defined in [recipient.py:30](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L29)*
 
 
 
@@ -26,7 +26,7 @@ ___
 
 **●  address**:  *`undefined`⎮`object`* 
 
-*Defined in [recipient.py:20](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L20)*
+*Defined in [recipient.py:20](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L20)*
 
 
 
@@ -40,7 +40,7 @@ ___
 
 **●  dob**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient.py:15](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L15)*
+*Defined in [recipient.py:15](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L15)*
 
 
 
@@ -53,7 +53,7 @@ ___
 
 **●  email**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient.py:10](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L10)*
+*Defined in [recipient.py:10](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L10)*
 
 
 
@@ -67,7 +67,7 @@ ___
 
 **●  firstName**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient.py:12](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L12)*
+*Defined in [recipient.py:12](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L12)*
 
 
 
@@ -81,7 +81,7 @@ ___
 
 **●  governmentId**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient.py:17](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L17)*
+*Defined in [recipient.py:17](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L17)*
 
 
 
@@ -95,7 +95,7 @@ ___
 
 **●  language**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient.py:19](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L19)*
+*Defined in [recipient.py:19](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L19)*
 
 
 
@@ -109,7 +109,7 @@ ___
 
 **●  lastName**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient.py:13](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L13)*
+*Defined in [recipient.py:13](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L13)*
 
 
 
@@ -123,7 +123,7 @@ ___
 
 **●  name**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient.py:11](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L11)*
+*Defined in [recipient.py:11](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L11)*
 
 
 
@@ -137,7 +137,7 @@ ___
 
 **●  passport**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient.py:18](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L18)*
+*Defined in [recipient.py:18](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L18)*
 
 
 
@@ -151,7 +151,7 @@ ___
 
 **●  referenceId**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient.py:9](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L9)*
+*Defined in [recipient.py:9](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L9)*
 
 
 
@@ -165,7 +165,7 @@ ___
 
 **●  ssn**:  *`undefined`⎮`string`* 
 
-*Defined in [recipient.py:16](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L16)*
+*Defined in [recipient.py:16](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L16)*
 
 
 
@@ -179,12 +179,10 @@ ___
 
 **●  type**:  *"individual"⎮"business"* 
 
-*Defined in [recipient.py:14](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient.py#L14)*
+*Defined in [recipient.py:14](https://github.com/trolley/python-sdk/tree/master/trolley/recipient.py#L14)*
 
 
 
 
 
 ___
-
-

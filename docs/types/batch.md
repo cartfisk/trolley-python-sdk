@@ -12,7 +12,7 @@
 
 **●  description**:  *`undefined`⎮`string`*
 
-*Defined in [batch.py:15](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch.py#L15)*
+*Defined in [batch.py:15](https://github.com/trolley/python-sdk/tree/master/trolley/batch.py#L15)*
 
 
 
@@ -27,7 +27,7 @@ ___
 
 **●  sourceCurrency**:  *`undefined`⎮`string`*
 
-*Defined in [batch.py:14](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/batch.py#L14)*
+*Defined in [batch.py:14](https://github.com/trolley/python-sdk/tree/master/trolley/batch.py#L14)*
 
 
 
@@ -35,5 +35,3 @@ ___
 
 
 ___
-
-

@@ -23,7 +23,7 @@
 
 **●  apiBase**:  *`string`* 
 
-*Defined in [Configuration.py:35](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/configuration.py#L35)*
+*Defined in [Configuration.py:35](https://github.com/trolley/python-sdk/tree/master/trolley/configuration.py#L35)*
 
 
 
@@ -37,7 +37,7 @@ ___
 
 **●  apiKey**:  *`string`* 
 
-*Defined in [Configuration.py:33](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/configuration.py#L33)*
+*Defined in [Configuration.py:33](https://github.com/trolley/python-sdk/tree/master/trolley/configuration.py#L33)*
 
 
 
@@ -51,7 +51,7 @@ ___
 
 **●  apiSecret**:  *`string`* 
 
-*Defined in [Configuration.py:34](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/configuration.py#L34)*
+*Defined in [Configuration.py:34](https://github.com/trolley/python-sdk/tree/master/trolley/configuration.py#L34)*
 
 
 
@@ -66,7 +66,7 @@ ___
 
 
 
-*Defined in [Configuration.py:90](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/configuration.py#L90)*
+*Defined in [Configuration.py:90](https://github.com/trolley/python-sdk/tree/master/trolley/configuration.py#L90)*
 
 
 
@@ -89,5 +89,3 @@ Set the Trolley API environment that your using
 
 
 ___
-
-

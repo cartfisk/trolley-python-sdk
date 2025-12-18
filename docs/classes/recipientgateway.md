@@ -27,7 +27,7 @@
 
 
 
-*Defined in [recipient_gateway.py:82](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_gateway.py#L82)*
+*Defined in [recipient_gateway.py:82](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_gateway.py#L82)*
 
 
 
@@ -58,7 +58,7 @@ ___
 ► **find**(recipientId: *`string`*): `Recipient`
 
 
-*Defined in [recipient_gateway.py:58](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_gateway.py#L58)*
+*Defined in [recipient_gateway.py:58](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_gateway.py#L58)*
 
 
 
@@ -92,7 +92,7 @@ ___
 
 
 
-*Defined in [recipient_gateway.py:115](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_gateway.py#L115)*
+*Defined in [recipient_gateway.py:115](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_gateway.py#L115)*
 
 
 
@@ -126,7 +126,7 @@ ___
 
 
 
-*Defined in [recipient_gateway.py:123](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_gateway.py#L123)*
+*Defined in [recipient_gateway.py:123](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_gateway.py#L123)*
 
 
 
@@ -158,7 +158,7 @@ ___
 
 
 
-*Defined in [recipient_gateway.py:100](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/recipient_gateway.py#L100)*
+*Defined in [recipient_gateway.py:100](https://github.com/trolley/python-sdk/tree/master/trolley/recipient_gateway.py#L100)*
 
 
 
@@ -185,5 +185,3 @@ Update the given recipient
 
 
 ___
-
-

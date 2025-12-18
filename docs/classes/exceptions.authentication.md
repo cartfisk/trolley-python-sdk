@@ -34,9 +34,8 @@
 
 *AuthenticationException*
 
-*Defined in paymentrails.exceptions.authenticationException.AuthenticationException*
+*Defined in trolley.exceptions.authenticationException.AuthenticationException*
 
 
 
 ___
-

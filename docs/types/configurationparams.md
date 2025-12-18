@@ -11,7 +11,7 @@
 
 **●  environment**:  *"production"⎮"sandbox"⎮"integration"⎮"development"* 
 
-*Defined in [configuration.py:15](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/configuration.py#L15)*
+*Defined in [configuration.py:15](https://github.com/trolley/python-sdk/tree/master/trolley/configuration.py#L15)*
 
 
 
@@ -28,7 +28,7 @@ ___
 
 **●  key**:  *`string`* 
 
-*Defined in [configuration.py:7](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/configuration.py#L7)*
+*Defined in [configuration.py:7](https://github.com/trolley/python-sdk/tree/master/trolley/configuration.py#L7)*
 
 
 
@@ -43,7 +43,7 @@ ___
 
 **●  private**:  *`string`* 
 
-*Defined in [configuration.py:11](https://github.com/PaymentRails/python-sdk/tree/master/paymentrails/configuration.py#L11)*
+*Defined in [configuration.py:11](https://github.com/trolley/python-sdk/tree/master/trolley/configuration.py#L11)*
 
 
 
@@ -53,5 +53,3 @@ The Trolley private key
 
 
 ___
-
-
